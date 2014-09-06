@@ -6,7 +6,7 @@ SCSS Jeet for Rails
 In your Gemfile:
 
 ```ruby
-gem 'jeet-rails'
+gem 'jeet'
 ```
 
 And then execute:

@@ -1,4 +1,7 @@
 # Jeet-Rails
+[![Gem Version](http://img.shields.io/gem/v/jeet.svg?style=flat)](http://badge.fury.io/rb/jeet)
+[![Dependency Status](http://img.shields.io/gemnasium/corysimmons/jeet-rails.svg?style=flat)](https://gemnasium.com/corysimmons/jeet-rails)
+
 SCSS Jeet for Rails
 
 ## Installation

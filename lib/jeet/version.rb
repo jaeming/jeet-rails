@@ -1,3 +1,3 @@
 module Jeet
-  VERSION = '0.0.5'
+  VERSION = '5.3.0'
 end

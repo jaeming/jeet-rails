@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'jeet-rails/version'
+require 'jeet/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'jeet-rails'
+  spec.name          = 'jeet'
   spec.version       = Jeet::Rails::VERSION
   spec.authors       = ['Cory Simmons', 'Jonah Ruiz']
   spec.email         = ['csimmonswork@gmail.com', 'jonah@pixelhipsters.com']

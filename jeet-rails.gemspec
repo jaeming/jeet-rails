@@ -6,8 +6,8 @@ require 'jeet-rails/version'
 Gem::Specification.new do |spec|
   spec.name          = 'jeet-rails'
   spec.version       = Jeet::Rails::VERSION
-  spec.authors       = ['Cory Simmons']
-  spec.email         = ['csimmonswork@gmail.com']
+  spec.authors       = ['Cory Simmons', 'Jonah Ruiz']
+  spec.email         = ['csimmonswork@gmail.com', 'jonah@pixelhipsters.com']
   spec.summary       = 'A grid system for humans.'
   spec.description   = 'The most advanced and intuitive Sass grid system on the planet.'
   spec.homepage      = 'http://jeet.gs'

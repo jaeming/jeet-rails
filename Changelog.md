@@ -1,5 +1,3 @@
-# Jeet Changelog
-
 ## 5.3.0
 
 Released Sep 6, 2014 ([5.3.0](https://github.com/corysimmons/jeet-rails/tree/v5.3.0)).

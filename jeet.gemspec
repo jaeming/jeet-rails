@@ -5,7 +5,7 @@ require 'jeet/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'jeet'
-  spec.version       = Jeet::Rails::VERSION
+  spec.version       = Jeet::VERSION
   spec.authors       = ['Cory Simmons', 'Jonah Ruiz']
   spec.email         = ['csimmonswork@gmail.com', 'jonah@pixelhipsters.com']
   spec.summary       = 'A grid system for humans.'

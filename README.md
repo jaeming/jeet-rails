@@ -7,7 +7,7 @@
     <img src="http://img.shields.io/gemnasium/corysimmons/jeet-rails.svg?style=flat" alt="Dependency Status">
   </a>
 </p>
-
+A rails asset gem for the [jeet](http://jeet.gs/) grid framework with SCSS support.
 ### Installation
 - Gemfile: `gem 'jeet'`
 - `bundle install`

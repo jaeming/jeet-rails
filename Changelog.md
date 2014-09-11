@@ -1,3 +1,6 @@
+## 6.0.0
+Upgrade to Jeet v6
+
 ## 5.3.0
 
 Released Sep 6, 2014 ([5.3.0](https://github.com/corysimmons/jeet-rails/tree/v5.3.0)).

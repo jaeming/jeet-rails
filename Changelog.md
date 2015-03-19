@@ -1,4 +1,9 @@
+## 6.1.2
+
+Upgrade to Jeet v6.1.2
+
 ## 6.0.0
+
 Upgrade to Jeet v6
 
 ## 5.3.0

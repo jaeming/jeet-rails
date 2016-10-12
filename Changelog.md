@@ -1,6 +1,10 @@
+## 6.1.5
+
+Update to Jeet 6.1.5 version
+
 ## 6.1.3
 
-Version bump to resolve differences between rubygems and the github repo. 
+Version bump to resolve differences between rubygems and the github repo.
 6.1.2 was commited on github on _Jan 11, 2015_ but rubygems.org 6.1.2 was last updated on _September 23, 2014_.
 A bump was preferred over gemyank. Note this bump represents a departure from the jeet version number for now.
 

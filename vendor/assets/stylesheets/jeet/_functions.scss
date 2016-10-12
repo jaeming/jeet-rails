@@ -78,24 +78,15 @@
     $result: ();
 
     @for $i from length($list) * -1 through -1 {
-      $item: nth($list, abs($i));
-
-      @if length($item) > 1 and $recursive {
-        $result: append($result, jeet-reverse($item, $recursive));
-      }
-      @else {
-        $result: append($result, $item);
-      }
+      $result: append($result, nth($list, abs($i)));
     }
 
     @return $result;
   }
 
-  // Sass 3.3+
-  @for $i from 1 through ceil(length($list)/2) {
+  // Sass 3.3
+  @for $i from 1 through floor(length($list) / 2) + 1 {
     $tmp: nth($list, $i);
-    $tmp: if(length($tmp) > 1 and $recursive, reverse($tmp, $recursive), $tmp);
-
     $list: set-nth($list, $i, nth($list, -$i));
     $list: set-nth($list, -$i, $tmp);
   }

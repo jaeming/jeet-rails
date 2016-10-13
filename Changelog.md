@@ -1,3 +1,7 @@
+## 6.1.5b
+
+Update dependencies
+
 ## 6.1.5
 
 Update to Jeet 6.1.5 version

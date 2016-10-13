@@ -1,4 +1,4 @@
-## 6.1.5b
+## 6.1.6
 
 Update dependencies
 
